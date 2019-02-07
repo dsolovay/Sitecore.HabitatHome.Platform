@@ -4,6 +4,7 @@ HabitatHome  Demo and the tools and processes in it is a Sitecore&reg; solution 
 
 # Important Notice
 <details>
+
 ## Is Habitat Home a starter kit or template solution?
 
 No. You should not clone this repository for the purposes of starting a new Sitecore project. There are other community solutions which can be used as a starter for Helix-based Sitecore implementations. Habitat Home is intended as a **demo site demonstrating the full Sitecore platform capabilities and development best practices**.
